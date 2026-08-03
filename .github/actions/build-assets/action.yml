@@ -1,0 +1,35 @@
+name: Build Assets
+description: >
+  Sets up Node and regenerates the profile's SVG assets. Reusable across
+  workflows so the build logic lives in exactly one place.
+
+inputs:
+  gh-username:
+    description: GitHub username to pull stats for.
+    required: true
+  gh-token:
+    description: Token used for GitHub API calls (stats + contributions).
+    required: true
+  mode:
+    description: "'all' (includes live metrics) or 'static' (offline assets only)."
+    required: false
+    default: all
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Build
+      shell: bash
+      env:
+        GH_USERNAME: ${{ inputs.gh-username }}
+        GH_TOKEN: ${{ inputs.gh-token }}
+      run: |
+        if [ "${{ inputs.mode }}" = "static" ]; then
+          npm run build:static
+        else
+          npm run build
+        fi

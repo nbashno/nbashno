@@ -1,0 +1,46 @@
+name: Update Profile
+
+# Regenerates all self-updating SVG assets and commits them.
+# Runs every 6 hours, on manual dispatch, and on push to main.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Reusable build logic (see .github/actions/build-assets).
+      - name: Build all assets
+        uses: ./.github/actions/build-assets
+        with:
+          gh-username: ${{ github.repository_owner }}
+          gh-token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          mode: all
+
+      - name: Commit updated assets
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg assets/.visitors 2>/dev/null || git add assets/*.svg
+          if git diff --staged --quiet; then
+            echo "No asset changes."
+          else
+            git commit -m "chore: refresh profile assets [skip ci]"
+            git push
+          fi

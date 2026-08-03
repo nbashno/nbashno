@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500"
+    viewBox="0 0 500 500" role="img" aria-label="Language radar">
+    
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A0E17" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#05060A" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#8A2BE2"/>
+      <stop offset="1"   stop-color="#39FF14"/>
+    </linearGradient>
+    
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+    
+  </defs>
+    <rect width="500" height="500" rx="16" fill="#05060A"/>
+    <text x="30" y="40" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12" fill="#5A6B82"
+          letter-spacing="3">LANGUAGE RADAR</text>
+    <polygon points="250,222.5" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,185" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,147.5" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,110" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/>
+    <polygon points="" fill="#8A2BE2" fill-opacity="0.25"
+      stroke="url(#neon)" stroke-width="2" filter="url(#glow)">
+      <animate attributeName="fill-opacity" values="0.12;0.32;0.12" dur="4s" repeatCount="indefinite"/>
+    </polygon>
+    
+    <rect x="1" y="1" width="498" height="498" rx="16" fill="none"
+          stroke="url(#neon)" stroke-width="1.2" opacity="0.5"/>
+  </svg>

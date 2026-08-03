@@ -1,0 +1,20 @@
+{
+  "name": "cyberpunk-profile",
+  "version": "1.0.0",
+  "description": "Handcrafted, self-generating cyberpunk GitHub profile. All visuals are SMIL-animated SVGs produced by Node scripts and refreshed by GitHub Actions.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "banner": "node scripts/generate-banner.js",
+    "terminal": "node scripts/generate-terminal.js",
+    "svg": "node scripts/generate-svg.js",
+    "metrics": "node scripts/generate-metrics.js",
+    "build": "npm run banner && npm run terminal && npm run svg && npm run metrics",
+    "build:static": "npm run banner && npm run terminal && npm run svg"
+  },
+  "author": "nbashno",
+  "license": "MIT"
+}

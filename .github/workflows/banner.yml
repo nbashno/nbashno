@@ -1,0 +1,42 @@
+name: Banner
+
+# Rebuilds the handcrafted static-but-animated assets (banner, terminal,
+# architecture, matrix, divider, footer). These don't need the API, so this
+# is a fast standalone job — handy when you tweak the design in scripts/.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate-banner.js'
+      - 'scripts/generate-terminal.js'
+      - 'scripts/generate-svg.js'
+      - 'scripts/theme.js'
+
+permissions:
+  contents: write
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build static assets
+        run: npm run build:static
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/banner.svg assets/terminal.svg assets/architecture.svg \
+                  assets/matrix.svg assets/divider.svg assets/footer.svg
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: rebuild static assets [skip ci]"
+            git push
+          fi

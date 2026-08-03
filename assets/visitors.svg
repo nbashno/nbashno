@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="90"
+    viewBox="0 0 360 90" role="img" aria-label="Visitor counter">
+    
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A0E17" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#05060A" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#8A2BE2"/>
+      <stop offset="1"   stop-color="#39FF14"/>
+    </linearGradient>
+    
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+    
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00F5FF" opacity="0.03"/>
+    </pattern>
+  </defs>
+    <rect width="360" height="90" rx="12" fill="#05060A"/>
+    <rect width="360" height="90" rx="12" fill="url(#scan)"/>
+    <text x="20" y="55" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12" fill="#5A6B82"
+          letter-spacing="2">VISITORS</text>
+    
+      <rect x="120" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="135" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+      <rect x="158" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="173" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+      <rect x="196" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="211" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+      <rect x="234" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="249" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+      <rect x="272" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="287" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+      <rect x="310" y="30" width="30" height="40" rx="6"
+            fill="url(#glass)" stroke="url(#neon)" stroke-width="1"/>
+      <text x="325" y="58" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="24" font-weight="700"
+            fill="url(#neon)" filter="url(#glow)" text-anchor="middle">0</text>
+  </svg>
