@@ -26,18 +26,24 @@
     <rect width="500" height="500" rx="16" fill="#05060A"/>
     <text x="30" y="40" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12" fill="#5A6B82"
           letter-spacing="3">LANGUAGE RADAR</text>
-    <polygon points="250,222.5" fill="none" stroke="#1a2332"
-      stroke-width="0.8" opacity="0.6"/><polygon points="250,185" fill="none" stroke="#1a2332"
-      stroke-width="0.8" opacity="0.6"/><polygon points="250,147.5" fill="none" stroke="#1a2332"
-      stroke-width="0.8" opacity="0.6"/><polygon points="250,110" fill="none" stroke="#1a2332"
+    <polygon points="250,222.5 287.5,260 250,297.5 212.5,260" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,185 325,260 250,335 175,260" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,147.5 362.5,260 250,372.5 137.5,260" fill="none" stroke="#1a2332"
+      stroke-width="0.8" opacity="0.6"/><polygon points="250,110 400,260 250,410 100,260" fill="none" stroke="#1a2332"
       stroke-width="0.8" opacity="0.6"/><line x1="250" y1="260" x2="250" y2="110"
+      stroke="#1a2332" stroke-width="1"/><line x1="250" y1="260" x2="400" y2="260"
+      stroke="#1a2332" stroke-width="1"/><line x1="250" y1="260" x2="250" y2="410"
+      stroke="#1a2332" stroke-width="1"/><line x1="250" y1="260" x2="100" y2="260"
       stroke="#1a2332" stroke-width="1"/><text x="250" y="80" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
-      fill="#C6D3E3" text-anchor="middle">JavaScript</text>
-    <polygon points="250,110" fill="#8A2BE2" fill-opacity="0.25"
+      fill="#C6D3E3" text-anchor="middle">TypeScript</text><text x="430" y="260" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
+      fill="#C6D3E3" text-anchor="middle">JavaScript</text><text x="250" y="440" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
+      fill="#C6D3E3" text-anchor="middle">CSS</text><text x="70" y="260" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
+      fill="#C6D3E3" text-anchor="middle">Dockerfile</text>
+    <polygon points="250,110 275.14205564992704,260 250,264.10286623441874 248.64344330932843,260" fill="#8A2BE2" fill-opacity="0.25"
       stroke="url(#neon)" stroke-width="2" filter="url(#glow)">
       <animate attributeName="fill-opacity" values="0.12;0.32;0.12" dur="4s" repeatCount="indefinite"/>
     </polygon>
-    <circle cx="250" cy="110" r="4" fill="#00F5FF" filter="url(#glow)"/>
+    <circle cx="250" cy="110" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="275.14205564992704" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="250" cy="264.10286623441874" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="248.64344330932843" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/>
     <rect x="1" y="1" width="498" height="498" rx="16" fill="none"
           stroke="url(#neon)" stroke-width="1.2" opacity="0.5"/>
   </svg>
