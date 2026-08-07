@@ -39,11 +39,11 @@
       fill="#C6D3E3" text-anchor="middle">JavaScript</text><text x="250" y="440" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
       fill="#C6D3E3" text-anchor="middle">CSS</text><text x="70" y="260" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="12"
       fill="#C6D3E3" text-anchor="middle">Dockerfile</text>
-    <polygon points="250,110 269.49151454466096,260 250,263.85119001771545 249.0295001155357,260" fill="#8A2BE2" fill-opacity="0.25"
+    <polygon points="250,110 269.148922753547,260 250,263.783499737257 249.04655806621125,260" fill="#8A2BE2" fill-opacity="0.25"
       stroke="url(#neon)" stroke-width="2" filter="url(#glow)">
       <animate attributeName="fill-opacity" values="0.12;0.32;0.12" dur="4s" repeatCount="indefinite"/>
     </polygon>
-    <circle cx="250" cy="110" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="269.49151454466096" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="250" cy="263.85119001771545" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="249.0295001155357" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/>
+    <circle cx="250" cy="110" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="269.148922753547" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="250" cy="263.783499737257" r="4" fill="#00F5FF" filter="url(#glow)"/><circle cx="249.04655806621125" cy="260" r="4" fill="#00F5FF" filter="url(#glow)"/>
     <rect x="1" y="1" width="498" height="498" rx="16" fill="none"
           stroke="url(#neon)" stroke-width="1.2" opacity="0.5"/>
   </svg>
