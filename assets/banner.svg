@@ -34,323 +34,323 @@
   <g opacity="0.5">
     <text x="6.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 0 1 1 0
+      1 1 0 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.75s" begin="3.07s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.75s"
-        begin="3.07s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.81s" begin="0.85s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.81s"
+        begin="0.85s" repeatCount="indefinite"/>
     </text>
     <text x="31.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 0 0 0 1
+      1 0 0 0 1 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.71s" begin="2.28s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.71s"
-        begin="2.28s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.59s" begin="0.72s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.59s"
+        begin="0.72s" repeatCount="indefinite"/>
     </text>
     <text x="56.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 1 0 1
+      0 0 1 0 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.58s" begin="3.81s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.58s"
-        begin="3.81s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.94s" begin="1.83s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.94s"
+        begin="1.83s" repeatCount="indefinite"/>
     </text>
     <text x="81.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 0 1 1 0
+      0 0 0 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.90s" begin="1.07s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.90s"
-        begin="1.07s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.63s" begin="3.35s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.63s"
+        begin="3.35s" repeatCount="indefinite"/>
     </text>
     <text x="106.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 1 1 1 0
+      0 1 0 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.28s" begin="0.72s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.28s"
-        begin="0.72s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.39s" begin="3.40s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.39s"
+        begin="3.40s" repeatCount="indefinite"/>
     </text>
     <text x="131.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 1 0 1 1
+      1 1 0 0 1 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.14s" begin="1.38s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.14s"
-        begin="1.38s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.01s" begin="2.77s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.01s"
+        begin="2.77s" repeatCount="indefinite"/>
     </text>
     <text x="156.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 0 0 1
+      0 1 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.10s" begin="2.55s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.10s"
-        begin="2.55s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.99s" begin="2.00s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.99s"
+        begin="2.00s" repeatCount="indefinite"/>
     </text>
     <text x="181.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 1 0 1
+      1 1 1 0 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.44s" begin="3.69s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.44s"
-        begin="3.69s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.96s" begin="1.55s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.96s"
+        begin="1.55s" repeatCount="indefinite"/>
     </text>
     <text x="206.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 1 1 0
+      1 1 1 1 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.07s" begin="2.09s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.07s"
-        begin="2.09s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.11s" begin="1.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.11s"
+        begin="1.96s" repeatCount="indefinite"/>
     </text>
     <text x="231.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 1 0 1 0
+      0 1 1 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.24s" begin="2.38s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.24s"
-        begin="2.38s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.35s" begin="3.10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.35s"
+        begin="3.10s" repeatCount="indefinite"/>
     </text>
     <text x="256.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 1 0 1 1
+      0 1 1 0 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.55s" begin="0.98s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.55s"
-        begin="0.98s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.07s" begin="1.05s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.07s"
+        begin="1.05s" repeatCount="indefinite"/>
     </text>
     <text x="281.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 0 0 1 1
+      1 0 1 0 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.24s" begin="1.75s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.24s"
-        begin="1.75s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.90s" begin="0.60s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.90s"
+        begin="0.60s" repeatCount="indefinite"/>
     </text>
     <text x="306.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 1 1 0
+      1 1 0 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.09s" begin="2.77s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.09s"
-        begin="2.77s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.27s" begin="2.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.27s"
+        begin="2.96s" repeatCount="indefinite"/>
     </text>
     <text x="331.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 0 1 0
+      1 1 1 1 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.17s" begin="1.84s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.17s"
-        begin="1.84s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.88s" begin="2.70s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.88s"
+        begin="2.70s" repeatCount="indefinite"/>
     </text>
     <text x="356.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 1 1 1
+      0 0 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.07s" begin="1.10s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.07s"
-        begin="1.10s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.18s" begin="3.54s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.18s"
+        begin="3.54s" repeatCount="indefinite"/>
     </text>
     <text x="381.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 1 1 1 1
+      0 1 0 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.99s" begin="1.36s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.99s"
-        begin="1.36s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.86s" begin="1.50s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.86s"
+        begin="1.50s" repeatCount="indefinite"/>
     </text>
     <text x="406.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 1 1 1 1
+      0 1 0 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.42s" begin="0.63s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.42s"
-        begin="0.63s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.75s" begin="0.51s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.75s"
+        begin="0.51s" repeatCount="indefinite"/>
     </text>
     <text x="431.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 0 0 1
+      0 1 1 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.67s" begin="3.22s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.67s"
-        begin="3.22s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.22s" begin="3.03s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.22s"
+        begin="3.03s" repeatCount="indefinite"/>
     </text>
     <text x="456.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 0 1 1 0
+      0 1 1 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.87s" begin="2.49s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.87s"
-        begin="2.49s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.86s" begin="1.53s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.86s"
+        begin="1.53s" repeatCount="indefinite"/>
     </text>
     <text x="481.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 1 1 1 0
+      0 1 0 0 1 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.42s" begin="2.98s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.42s"
-        begin="2.98s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.24s" begin="3.85s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.24s"
+        begin="3.85s" repeatCount="indefinite"/>
     </text>
     <text x="506.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 0 0 1
+      0 0 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.31s" begin="3.07s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.31s"
-        begin="3.07s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.27s" begin="2.28s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.27s"
+        begin="2.28s" repeatCount="indefinite"/>
     </text>
     <text x="531.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 1 1 1 0
+      0 1 0 0 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.07s" begin="0.39s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.07s"
-        begin="0.39s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.94s" begin="3.61s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.94s"
+        begin="3.61s" repeatCount="indefinite"/>
     </text>
     <text x="556.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 0 0 0 1
+      0 0 0 1 1 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.86s" begin="3.74s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.86s"
-        begin="3.74s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.09s" begin="3.35s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.09s"
+        begin="3.35s" repeatCount="indefinite"/>
     </text>
     <text x="581.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 1 0 0
+      1 0 1 1 1 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.45s" begin="0.42s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.45s"
-        begin="0.42s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.52s" begin="2.88s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.52s"
+        begin="2.88s" repeatCount="indefinite"/>
     </text>
     <text x="606.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 0 0 0 1
+      1 1 0 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.83s" begin="1.24s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.83s"
-        begin="1.24s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.29s" begin="2.12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.29s"
+        begin="2.12s" repeatCount="indefinite"/>
     </text>
     <text x="631.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 1 0 0 0
+      0 1 0 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.09s" begin="0.31s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.09s"
-        begin="0.31s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.42s" begin="2.65s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.42s"
+        begin="2.65s" repeatCount="indefinite"/>
     </text>
     <text x="656.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 0 0 1
+      0 1 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.76s" begin="3.11s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.76s"
-        begin="3.11s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.26s" begin="3.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.26s"
+        begin="3.96s" repeatCount="indefinite"/>
     </text>
     <text x="681.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 1 0 1 1
+      0 0 0 1 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.77s" begin="3.32s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.77s"
-        begin="3.32s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.98s" begin="2.32s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.98s"
+        begin="2.32s" repeatCount="indefinite"/>
     </text>
     <text x="706.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 1 0 0
+      1 1 0 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.65s" begin="1.81s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.65s"
-        begin="1.81s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.93s" begin="2.84s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.93s"
+        begin="2.84s" repeatCount="indefinite"/>
     </text>
     <text x="731.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 0 0 1
+      1 0 1 0 1 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.68s" begin="3.99s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.68s"
-        begin="3.99s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.66s" begin="1.67s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.66s"
+        begin="1.67s" repeatCount="indefinite"/>
     </text>
     <text x="756.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 1 0 1 1
+      1 1 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.86s" begin="2.99s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.86s"
-        begin="2.99s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.32s" begin="0.64s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.32s"
+        begin="0.64s" repeatCount="indefinite"/>
     </text>
     <text x="781.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 1 1 1 0 1
+      1 1 0 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.22s" begin="0.22s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.22s"
-        begin="0.22s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.31s" begin="1.60s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.31s"
+        begin="1.60s" repeatCount="indefinite"/>
     </text>
     <text x="806.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 0 1 0
+      0 0 0 0 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.69s" begin="3.98s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.69s"
-        begin="3.98s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.89s" begin="1.70s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.89s"
+        begin="1.70s" repeatCount="indefinite"/>
     </text>
     <text x="831.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 0 1 0
+      0 0 1 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.34s" begin="3.26s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.34s"
-        begin="3.26s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="5.09s" begin="1.09s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="5.09s"
+        begin="1.09s" repeatCount="indefinite"/>
     </text>
     <text x="856.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 0 0 1 1 0
+      1 0 0 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.49s" begin="2.03s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.49s"
-        begin="2.03s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.92s" begin="0.62s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.92s"
+        begin="0.62s" repeatCount="indefinite"/>
     </text>
     <text x="881.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 0 0 1
+      0 0 1 0 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.61s" begin="2.69s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.61s"
-        begin="2.69s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.61s" begin="3.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.61s"
+        begin="3.96s" repeatCount="indefinite"/>
     </text>
     <text x="906.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 0 1 1 1
+      1 0 1 0 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="3.29s" begin="1.53s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="3.29s"
-        begin="1.53s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.23s" begin="2.04s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.23s"
+        begin="2.04s" repeatCount="indefinite"/>
     </text>
     <text x="931.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 1 1 1 0
+      0 1 1 1 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="4.63s" begin="3.12s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="4.63s"
-        begin="3.12s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.70s" begin="3.41s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.70s"
+        begin="3.41s" repeatCount="indefinite"/>
     </text>
     <text x="956.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      0 1 0 0 1 0
+      1 1 1 0 0 0
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.28s" begin="0.09s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.28s"
-        begin="0.09s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="3.42s" begin="2.92s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.42s"
+        begin="2.92s" repeatCount="indefinite"/>
     </text>
     <text x="981.0" y="-20" font-family="'JetBrains Mono','SF Mono',ui-monospace,'Cascadia Code',Menlo,Consolas,monospace" font-size="11"
           fill="#39FF14" opacity="0">
-      1 0 0 0 1 1
+      0 1 1 0 0 1
       <animateTransform attributeName="transform" type="translate"
-        values="0,-20; 0,320" dur="5.24s" begin="3.23s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.35;0" dur="5.24s"
-        begin="3.23s" repeatCount="indefinite"/>
+        values="0,-20; 0,320" dur="4.53s" begin="2.51s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="4.53s"
+        begin="2.51s" repeatCount="indefinite"/>
     </text></g>
   <rect width="1000" height="280" rx="16" fill="url(#scan)"/>
   <rect x="1" y="1" width="998" height="278" rx="16" fill="none"
